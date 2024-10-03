@@ -8,8 +8,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ryanhoran1985/qr-code-component/)
-- Live Site URL: [Add live site URL here](https://incomparable-cannoli-217067.netlify.app/)
+- Solution URL: https://github.com/ryanhoran1985/qr-code-component/
+- Live Site URL: https://incomparable-cannoli-217067.netlify.app/
 
 ### Built with
 
